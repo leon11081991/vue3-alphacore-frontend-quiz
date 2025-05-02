@@ -15,13 +15,24 @@ npm install
 
 ---
 
+## ⚙️ 環境變數設定
+請依照 .env.example 建立對應的環境檔：
+```bash
+cp .env.example .env.dev
+```
+
+---
+
 ## 🚀 啟用
 
 ```bash
+#開發
 npm run dev
 
+#打包
 npm run build
 
+# 預覽
 npm run preview
 ```
 
