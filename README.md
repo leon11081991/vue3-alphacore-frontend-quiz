@@ -48,3 +48,10 @@ npm run preview
 └── README.md       # 說明文件（本檔案）
 ```
 
+## 🧰 使用技術
+- Vue 3(Composition API)
+- TypeScript
+- Pinia(Setup Stores)
+- Vue Router
+- Quasar UI
+- Vite
