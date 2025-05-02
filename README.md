@@ -13,6 +13,8 @@
 npm install
 ```
 
+---
+
 ## 🚀 啟用
 
 ```bash
@@ -22,6 +24,8 @@ npm run build
 
 npm run preview
 ```
+
+---
 
 ## 📁 專案架構
 ```bash
@@ -47,6 +51,8 @@ npm run preview
 ├── package.json    # 專案依賴與指令
 └── README.md       # 說明文件（本檔案）
 ```
+
+---
 
 ## 🧰 使用技術
 - Vue 3(Composition API)
